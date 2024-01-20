@@ -1,1 +1,1 @@
-Enables the ability to configure the route price of the AtlasAbyss map.
+Enables the ability to configure the route price of the SecretLabs map.
